@@ -8,3 +8,12 @@ Neben den Hauptnährstoffen Stickstoff, Phosphor, Kalium, Schwefel, Calcium und 
 Ein weiterer Bodenparameter, mit dem Aussagen über z.B. die Bodenentwicklung in semiariden und ariden Gebieten getätigt werden können, ist der anorganische Kohlenstoff. Dieser kann grundsätzlich als Maß dafür genommen werden, wie weit der Boden an einem Standort entwickelt ist. Denn bei einem weit entwickelten Boden wird der anorganische Kohlenstoff in andere Bodenbestandteile umgewandelt, wohingegen dieser bei trockenen und gesteinsähnlichen Böden besonders häufig vorkommt.
 
 Deshalb befasst sich diese Ausarbeitung mit der Ableitung von empirisch statistischen Modellen, um den Anteil von den drei Bodenparametern organischer Kohlenstoff, anorganischer Kohlenstoff und Eisen zu schätzen. Anhand von einzelnen im Untersuchungsgebiet vor Ort genommenen Proben und ihren spektralen Eigenschaften werden statistische Abhängigkeiten bestimmt. Diese Zusammenhänge führen zu Modellen, die das Bestimmen der jeweiligen Prozentwerte vereinfachen und letztlich auf andere Punkte im Bild übertragbar sind. Durch diese Bodenparameter und die Modelle lassen sich dann schlussendlich Aussagen über den Zustand des Bodens treffen.
+
+Eine detaillierte und strukturierte Beschreibung der Vorgehensweise ist im <a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Quantitative%20Analyse%20pedochemischer%20Eigenschaften%20in%20einem%20semiariden%20bis%20ariden%20Untersuchunsgebiet%20in%20Israel.pdf" target="_blank" rel="noreferrer"> Projektbericht</a> zu finden.
+
+# Ergebniskarten der quantitativen Analyse für Eisen, Corg und Canorg
+<p align="center">
+  <img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CanorgKarte.jpeg" width="350" title="Ergebniskarte für Canorg.">
+  <img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="350" title="Ergebniskarte für Corg">
+  <img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/EisenKarte.png" width="350" title="Ergebniskarte für Eisen">
+</p>

@@ -9,7 +9,7 @@ Ein weiterer Bodenparameter, mit dem Aussagen über z.B. die Bodenentwicklung in
 
 Deshalb befasst sich diese Ausarbeitung mit der Ableitung von empirisch statistischen Modellen, um den Anteil von den drei Bodenparametern organischer Kohlenstoff, anorganischer Kohlenstoff und Eisen zu schätzen. Anhand von einzelnen im Untersuchungsgebiet vor Ort genommenen Proben und ihren spektralen Eigenschaften werden statistische Abhängigkeiten bestimmt. Diese Zusammenhänge führen zu Modellen, die das Bestimmen der jeweiligen Prozentwerte vereinfachen und letztlich auf andere Punkte im Bild übertragbar sind. Durch diese Bodenparameter und die Modelle lassen sich dann schlussendlich Aussagen über den Zustand des Bodens treffen.
 
-Eine detaillierte und strukturierte Beschreibung der Vorgehensweise ist im <a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Quantitative%20Analyse%20pedochemischer%20Eigenschaften%20in%20einem%20semiariden%20bis%20ariden%20Untersuchunsgebiet%20in%20Israel.pdf" target="_blank" rel="noreferrer"> Projektbericht</a> zu finden.
+Eine detaillierte und strukturierte Beschreibung der Herleitung und der statistischen Absicherung der Modelle ist im <a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Quantitative%20Analyse%20pedochemischer%20Eigenschaften%20in%20einem%20semiariden%20bis%20ariden%20Untersuchunsgebiet%20in%20Israel.pdf" target="_blank" rel="noreferrer"> Projektbericht</a> zu finden.
 
 # Ergebniskarten der quantitativen Analyse für Eisen, Corg und Canorg
 <p align="center">
